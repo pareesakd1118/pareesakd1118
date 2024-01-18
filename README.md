@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/pareesa-kamgar-dayhoff/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/pareesa-kamgar-dayhoff-b735842a9/-blue)](https://www.linkedin.com/in/pareesa-kamgar-dayhoff/)

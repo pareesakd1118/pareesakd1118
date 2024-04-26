@@ -20,7 +20,7 @@
 ## About me
 
 - 🔭 My name is Pareesa Kamgar-Dayhoff, formerly a research scientist and currently a **Front End Software Engineer**. I am currently enrolled in Turing School of Software & Design's Front End Engineering program and plan to graduate in June of 2024.  
-- 🌱 I enjoy working on Front End Development and full stack projects and am enthusiatic about learning new technology. My techstack includes **Javascript, React, Router, HTML, CSS and Git/GitHub.** I have also enjoyed working on full stack projects, using PostgreSQL, Knex and Express.  
+- 🌱 I enjoy working on Front End Development and full stack projects and am enthusiatic about learning new technology. My techstack includes **Javascript, React, Router, HTML, CSS and Git/GitHub.** I have also enjoyed working on full stack projects, using **PostgreSQL, Knex and Express.**  
 - ⛰️ Outside of the tech world I love to snowboard, hike, and explore the Bay Area, and I love to push myself to develop new skills, such as playing chess and learning to speak Farsi.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/pareesa-kamgar-dayhoff/)
 - 😄 Pronouns: she/her

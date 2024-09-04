@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=for-the-badge" alt="ruby badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="html badge">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="css badge">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="tailwind badge">
   <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" alt="mui badge">
   <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge" alt="cypress badge">
   <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge" alt="mocha badge">
@@ -24,7 +25,7 @@
 ## About me
 
 - 🔭 My name is Pareesa Kamgar-Dayhoff, formerly a research scientist and currently a **Front End Software Engineer**. I am a recent graduate of Turing School of Software & Design's accredited Front End Engineering program.  
-- 🌱 I enjoy working on Front End Development and full stack projects and am enthusiatic about learning new technology. My techstack includes **Javascript, Typescript, React, Router, HTML, CSS, Cypress, MUI and Git/GitHub.** I have also enjoyed working on full stack projects, using **PostgreSQL, SQL, Ruby, Knex and Express.**  
+- 🌱 I enjoy working on Front End Development and full stack projects and am enthusiatic about learning new technology. My techstack includes **Javascript, Typescript, React, Router, HTML, CSS, Next.js, Cypress, Tailwind CSS, MUI and Git/GitHub.** I have also enjoyed working on full stack projects, using **PostgreSQL, SQL, Ruby, Knex and Express.**  
 - ⛰️ Outside of the tech world I love to snowboard, hike, and explore the Bay Area, and I love to push myself to develop new skills, such as playing chess and learning to speak Farsi.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/pareesa-kamgar-dayhoff/)
 - 😄 Pronouns: she/her
